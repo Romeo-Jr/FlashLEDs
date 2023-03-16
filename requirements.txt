@@ -1,0 +1,4 @@
+pyFirmata==1.1.0
+pyserial==3.5
+python-dotenv==1.0.0
+tk==0.1.0
