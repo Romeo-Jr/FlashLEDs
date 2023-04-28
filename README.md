@@ -12,8 +12,8 @@
 
 ### Schematic View
 
-![image](https://raw.githubusercontent.com/Romeo0101/FlashLEDs/main/images/schematic-view.jpg)
+![image](images/schematic-view.jpg)
 
 ### Circuit View
 
-![image](https://raw.githubusercontent.com/Romeo0101/FlashLEDs/main/images/circuit-view.jpg)
+![image](/images/circuit-view.jpg)
